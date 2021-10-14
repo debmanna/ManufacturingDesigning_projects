@@ -1,5 +1,5 @@
 # ManufacturingDesigning_projects
-Course Project of TA201P
+Course Project of TA201
 
 1.Conceptualising and constructing a revolver from Scratch
 
